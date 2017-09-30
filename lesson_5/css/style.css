@@ -1,0 +1,34 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+ 	text-align: center;
+ 	border: 2px solid #DADADA;
+	 background-color: #BEBEBE;
+}
+
+p {
+		text-indent: 14px;
+}
+
+img {
+		width: 200px;
+}
+
+.strong {
+		font-weight: bold;
+}
+
+.em {
+		font-style: italic;
+}
+
+.u {
+ 	text-decoration: underline;
+}
+
+.lt {
+		text-decoration: line-through;
+}

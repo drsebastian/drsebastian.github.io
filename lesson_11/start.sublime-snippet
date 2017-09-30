@@ -1,0 +1,37 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html lang="${1:en}">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>${2:Document}</title>
+	<link href="css/${3:bootstrap.css}" rel="stylesheet">
+	<link rel="stylesheet" href="css/${4:style.css}">
+	<link rel="stylesheet" href="css/${5:main.css}">
+</head>
+<body>
+	<div class="section ${6:header}">
+		<div class="container">
+			
+		</div>
+	</div>
+	<div class="section">
+		<div class="container">
+			
+		</div>
+	</div>
+	<div class="section footer">
+		<div class="container">
+			
+		</div>
+	</div>
+</body>
+</html>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>start</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

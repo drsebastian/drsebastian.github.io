@@ -3,7 +3,7 @@
 
 
 [View My GitHub Profile](https://github.com/drsebastian)
-***  
+ 
 
 Мои домашние работы
 ------

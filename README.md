@@ -36,5 +36,9 @@
 [Урок 11](drsebastian.github.io/lesson_11/) - Snippets  
 
 
+[Практика 1](drsebastian.github.io/practice_1/) - Верстка шапки
+
+
+
 
 

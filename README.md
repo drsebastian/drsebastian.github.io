@@ -42,6 +42,9 @@
 [Урок 14](drsebastian.github.io/lesson_14/) - Подключение шрифтов
 
 
+[Практика 2](drsebastian.github.io/practice_2/) - Подключение шрифтов. Верстка первого экрана. 
+
+
 
 
 

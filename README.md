@@ -36,6 +36,9 @@
 [Урок 11](drsebastian.github.io/lesson_11/) - Snippets  
 
 
+[Урок 13](drsebastian.github.io/lesson_13/) - Pixel Perfect
+
+
 [Практика 1](drsebastian.github.io/practice_1/) - Верстка шапки
 
 

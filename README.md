@@ -57,6 +57,9 @@
 [Урок 16](drsebastian.github.io/lesson_16/) - Слайдер на сайте. 
 
 
+[Практика 4](drsebastian.github.io/practice_4/) - Верстка блока с преимуществами. Слайдер.
+
+
 
 
 

@@ -54,6 +54,10 @@
 [Практика 3](drsebastian.github.io/practice_3/) - Эффекты при наведении и адаптив первого экрана 
 
 
+[Урок 16](drsebastian.github.io/lesson_16/) - Слайдер на сайте. 
+
+
+
 
 
 

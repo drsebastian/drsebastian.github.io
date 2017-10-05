@@ -54,10 +54,10 @@
 [Практика 3](https://drsebastian.github.io/practice_3/) - Эффекты при наведении и адаптив первого экрана 
 
 
-[Урок 16](drsebastian.github.io/lesson_16/) - Слайдер на сайте. 
+[Урок 16](https://drsebastian.github.io/lesson_16/) - Слайдер на сайте. 
 
 
-[Практика 4](drsebastian.github.io/practice_4/) - Верстка блока с преимуществами. Слайдер.
+[Практика 4](https://drsebastian.github.io/practice_4/) - Верстка блока с преимуществами. Слайдер.
 
 
 

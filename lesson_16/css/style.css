@@ -1,0 +1,8 @@
+body {
+	background-color: #383235;
+	text-align: center;
+}
+.fotorama {
+	display: inline-block;
+	margin: 0 auto;
+}

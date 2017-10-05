@@ -19,11 +19,11 @@ h2 {
 	width: 200px;
 	height: 200px;
 	-webkit-filter: brightness(100%);
-  -webkit-transition: all 1s ease;
-     -moz-transition: all 1s ease;
-       -o-transition: all 1s ease;
-      -ms-transition: all 1s ease;
-          transition: all 1s ease;
+	-webkit-transition: all 1s ease;
+	-moz-transition: all 1s ease;
+	-o-transition: all 1s ease;
+	-ms-transition: all 1s ease;
+	transition: all 1s ease;
 	
 }
 .image-one {
@@ -44,37 +44,56 @@ h2 {
 }
 
 .button-one {
+	display: inline-block;
+	vertical-align: middle;
+	-webkit-transform: perspective(1px) translateZ(0);
+	transform: perspective(1px) translateZ(0);
+	box-shadow: 0 0 1px transparent;
+	-webkit-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+	-webkit-transition-property: transform;
+	transition-property: transform;
 	border: none;
 	font-weight: 700;
 	font-size: 14px;
- color: white;
- padding: .8em 1em calc(.8em + 3px);
- border-radius: 3px;
- background: rgb(64,199,129);
- box-shadow: 0 -3px rgb(53,167,110) inset;
- transition: 0.2s;
+	color: white;
+	padding: .8em 1em calc(.8em + 3px);
+	border-radius: 3px;
+	background: rgb(64,199,129);
+	box-shadow: 0 -3px rgb(53,167,110) inset;
+	transition: 0.2s;
+	margin-right: 1rem;
 }
 .button-one:hover{
-	color: red;
-	background-color: #fff;
+	-webkit-transform: translateX(8px);
+	transform: translateX(8px);
 }
 .button-two {
 	display: inline-block;
- color: white;
- padding: .5em 2em;
- border: none;
- border-width: 2px 0;
- border-style: solid none;
- border-color: #FDBE33 #000 #D77206;
- border-radius: 6px;
- background: linear-gradient(#F3AE0F, #E38916) #E38916;
- transition: 0.2s;
+	vertical-align: middle;
+	-webkit-transform: perspective(1px) translateZ(0);
+	transform: perspective(1px) translateZ(0);
+	box-shadow: 0 0 1px transparent;
+	-webkit-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+	-webkit-transition-property: box-shadow, transform;
+	transition-property: box-shadow, transform;
+	color: white;
+	padding: .5em 2em;
+	border: none;
+	border-width: 2px 0;
+	border-style: solid none;
+	border-color: #FDBE33 #000 #D77206;
+	border-radius: 6px;
+	background: linear-gradient(#F3AE0F, #E38916) #E38916;
+	transition: 0.2s;
 }
 .button-two:hover {
-		background: linear-gradient(#F3A43F, #E38925) #E33316;
-		border-radius: 10px;
+	box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.5);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
 }
 
 .image:hover {
-		-webkit-filter: brightness(45%);
+	-webkit-filter: brightness(45%);
 }

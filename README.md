@@ -60,6 +60,9 @@
 [Практика 4](https://drsebastian.github.io/practice_4/) - Верстка блока с преимуществами. Слайдер.
 
 
+[Урок 17](https://drsebastian.github.io/lesson_17/) - Всплывающие окна. 
+
+
 
 
 

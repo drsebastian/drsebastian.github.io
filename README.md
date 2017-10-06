@@ -63,6 +63,9 @@
 [Урок 17](https://drsebastian.github.io/lesson_17/) - Всплывающие окна. 
 
 
+[Практика 5](https://drsebastian.github.io/practice_5/) - Верстка всплывающих окон на сайте.
+
+
 
 
 

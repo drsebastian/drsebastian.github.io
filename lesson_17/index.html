@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/favicon.ico">
+    <title>Popup</title>
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    
+  </head>
+
+  <body>
+
+  	<div class="container">
+  		<div class="row">
+  			<div class="col-md-4 col-md-offset-4">
+  				<div class="delete">
+  					<button class="btn delete-btn btn-lg" data-toggle="modal" data-target="#my-modal">Удалить файл</button>
+  				</div>
+  			</div>
+  		</div>
+  	</div>
+
+  	<div class="modal fade" id="my-modal">
+  	  <div class="modal-dialog">
+  	    <div class="modal-content">
+  	      <div class="modal-header">
+  	        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><img src="img/cross.png" alt=""></button>
+  	        <h4 class="modal-title">Удаление файла</h4>
+  	      </div>
+  	      <div class="modal-body">
+  	        <p>Вы действительно хотите удалить этот файл?</p>
+  	      </div>
+  	      <div class="modal-footer">
+  	        <button type="button" class="btn btn-default btn-no" data-dismiss="modal">Нет</button>
+  	        <button type="button" class="btn btn-default btn-yes">Да</button>
+  	      </div>
+  	    </div><!-- /.modal-content -->
+  	  </div><!-- /.modal-dialog -->
+  	</div><!-- /.modal -->   
+
+
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>    
+    
+    
+  </body>
+</html>

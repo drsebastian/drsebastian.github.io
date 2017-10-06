@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+	font-size: 10px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.delete {
+	display: block;
+	text-align: center;
+	margin-top: 50%;
+}
+.delete-btn {
+	display: inline-block;
+	vertical-align: middle;
+	-webkit-transform: perspective(1px) translateZ(0);
+	transform: perspective(1px) translateZ(0);
+	box-shadow: 0 0 1px transparent;
+	-webkit-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+	-webkit-transition-property: transform;
+	transition-property: transform;
+	width: 200px;
+	height: 70px;
+	background-color: #d15857;
+	color: #fff;
+	text-transform: uppercase;
+
+}
+
+.delete-btn:hover, .hvr-grow:focus, .hvr-grow:active {
+	-webkit-transform: scale(1.1);
+ transform: scale(1.1);
+ color: #ccc;
+}
+
+.modal-content {
+	width: 404px;
+	height: 182px;
+	border-radius: 5px;
+}
+
+.modal-header {
+	border: none;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	background: -webkit-linear-gradient(90deg, #2c202b 0%, #40323f 100%);
+	background: -moz-linear-gradient(90deg, #2c202b 0%, #40323f 100%);
+	background: -o-linear-gradient(90deg, #2c202b 0%, #40323f 100%);
+	background: -ms-linear-gradient(90deg, #2c202b 0%, #40323f 100%);
+	background: linear-gradient(0deg, #2c202b 0%, #40323f 100%);	
+	width: 404px;
+	height: 44px;	
+}
+
+.close {
+	background: url(../img/cross.png) center center no-repeat;
+}
+
+h4 {
+		color: #ffffff;
+	 font-size: 2rem;
+	 font-weight: 700;
+	 text-align: left;
+	 text-shadow: 0px 1px 5px rgba(0, 0, 0, 0.75);
+}
+
+.modal-body {
+	height: 60px;
+
+}
+
+p {
+		color: #535253;
+		font-size: 1.5rem;
+		font-weight: 400;
+		text-align: left;
+}
+
+.modal-footer {
+	height: 66px;
+}
+
+.btn-no {
+	border: none;
+border-radius: 3px;
+background: -webkit-linear-gradient(90deg, #659d48 0%, #85b46c 100%);
+background: -moz-linear-gradient(90deg, #659d48 0%, #85b46c 100%);
+background: -o-linear-gradient(90deg, #659d48 0%, #85b46c 100%);
+background: -ms-linear-gradient(90deg, #659d48 0%, #85b46c 100%);
+background: linear-gradient(0deg, #659d48 0%, #85b46c 100%);
+width: 62px;
+height: 31px;
+color: #fff;
+}
+
+.btn-yes {
+	border-radius: 3px;
+	border: none;
+	background: -webkit-linear-gradient(90deg, #c84747 0%, #db6464 100%);
+	background: -moz-linear-gradient(90deg, #c84747 0%, #db6464 100%);
+	background: -o-linear-gradient(90deg, #c84747 0%, #db6464 100%);
+	background: -ms-linear-gradient(90deg, #c84747 0%, #db6464 100%);
+background: linear-gradient(0deg, #c84747 0%, #db6464 100%);
+width: 62px;
+height: 31px;
+color: #fff;
+}
+

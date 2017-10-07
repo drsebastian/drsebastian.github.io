@@ -38,6 +38,7 @@ textarea:focus {
   color: #ffffff;
   text-transform: uppercase;
   border: none;
+  -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
 .button:hover {
@@ -65,11 +66,10 @@ section {
   /* Главная форма */
 }
 .main-content {
-  margin-top: 10rem;
   /* Главный заголовок */
 }
 .main-content h1 {
-  margin-top: 0;
+  margin-top: 8rem;
   margin-bottom: 4rem;
   font-family: 'ProximaNova_bold', sans-serif;
   line-height: 1.45;
@@ -101,6 +101,7 @@ section {
   font-family: 'ProximaNova_bold', sans-serif;
 }
 .main-form {
+  margin-top: 8rem;
   padding: 4rem 5rem;
   background-color: #ffffff;
   text-align: center;
@@ -128,7 +129,8 @@ section {
 .main-form label {
   position: absolute;
   left: 50%;
-  transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+          transform: translateX(-50%) translateY(-50%);
   padding: 0.5rem;
   font-size: 1.3rem;
   background-color: #ffffff;
@@ -196,7 +198,8 @@ section {
 .arrow {
   position: absolute;
   top: 50%;
-  transform: scaleY(-50%);
+  -webkit-transform: scaleY(-50%);
+          transform: scaleY(-50%);
   z-index: 99;
   width: 2rem;
   height: 2rem;
@@ -230,7 +233,8 @@ section {
   left: 50%;
   top: 10%;
   background-color: #ffffff;
-  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
   padding: 4rem 6rem;
 }
 .popup-form {

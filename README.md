@@ -66,6 +66,18 @@
 [Практика 5](https://drsebastian.github.io/practice_5/) - Верстка всплывающих окон на сайте.
 
 
+[Урок 18.1](https://drsebastian.github.io/lesson_18_1/) - Табы
+
+
+[Урок 18.2](https://drsebastian.github.io/lesson_18_1/) - Аккордеоны 
+
+
+[Практика 6](https://drsebastian.github.io/practice_6/) - Верстка блока с ценами 
+
+
+
+
+
 
 
 

@@ -75,6 +75,9 @@
 [Практика 6](https://drsebastian.github.io/practice_6/) - Верстка блока с ценами 
 
 
+[Урок 19](https://drsebastian.github.io/lesson_19/) - Анимация на CSS3. 
+
+
 
 
 

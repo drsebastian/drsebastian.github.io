@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/favicon.ico">
+    <title>Starter Template for Bootstrap</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/animate.css">
+    <link href="css/style.css" rel="stylesheet">    
+  </head>
+
+  <body>
+  
+  <div class="tab wow fadeInLeft">
+
+    <!-- Nav tabs -->
+    <ul class="nav nav-tabs" role="tablist">
+      <li role="presentation" class="active  wow rollIn">
+        <a href="#home" aria-controls="home" role="tab" data-toggle="tab">Вход</a>
+      </li>
+      <li role="presentation">
+        <a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Регистрация</a>
+      </li>      
+    </ul>
+
+    <!-- Tab panes -->
+    <div class="tab-content">
+      <div role="tabpanel" class="tab-pane active" id="home">
+        <form action="#">
+          <input class="field wow flipInX" data-wow-delay="1s" type="text" placeholder="Ваше имя">
+          <input class="field wow flipInX" data-wow-delay="1s" type="text" placeholder="Пароль">
+          <p class="wow slideInUp" data-wow-selay="1.5s">Забыли пароль?</p>
+          <div class="check">
+           <input  type="checkbox" value="terms" id="forget">
+           <label for="forget" class="wow rotateIn"> Напомнить мне</label>
+          </div>
+          <button class="wow wobble" data-wow-delay="2s">Войти</button>
+
+        </form>
+      </div>
+      <div role="tabpanel" class="tab-pane" id="profile">...</div>
+    </div>
+
+  </div>
+
+       
+  <script src="js/wow.min.js"></script>
+  <script>
+    var wow = new WOW
+    wow.init();
+  </script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+   <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+   <script src="http://getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>

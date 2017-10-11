@@ -1,0 +1,120 @@
+@font-face {
+			font-family: "MyriadProRegular";
+			src: url("../fonts/MyriadProRegular/MyriadProRegular.eot");
+			src: url("../fonts/MyriadProRegular/MyriadProRegular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/MyriadProRegular/MyriadProRegular.woff") format("woff"),
+			url("../fonts/MyriadProRegular/MyriadProRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	body {
+		font-family: 'MyriadProRegular', sans-serif;
+		font-size: 10px;
+		background-image: url(../img/bg.jpg);
+		background-size: cover;
+	}
+
+.tab-content {		
+	position: relative;
+	height: 410px;
+	border: 23px solid #03a5da;
+	border-radius: 25px;
+	background-color: #000;
+}
+.tab {
+	display: block;
+	margin: 0 auto;
+	width: 630px;
+	height: 450px;
+}
+ul {
+	position: relative;
+	top: 0;
+	left: 30px;	
+}
+li {
+	margin-right: 10px;
+}
+a {
+	background-color: #fff;
+	color: rgba(0, 0, 0, 1)
+}
+.nav {	
+border: none;
+font-family: 'Myriad Pro';
+color: #ffffff;
+font-size: 2.4rem;
+font-weight: 400;
+line-height: 0.917;
+text-align: justify;
+}
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:focus, 
+.nav-tabs > li.active > a:hover {
+ color: #fff;
+ cursor: pointer;
+ background-color: #03a5da;
+ border: 1px solid #03a5da;    
+ border-bottom-color: transparent;
+ border-top-left-radius: 5px;
+ border-top-right-radius: 5px;
+}
+
+form {	
+	margin-top: 70px;
+	margin-bottom: 30px;	
+}
+
+.field {
+	display: block;	
+	width: 480px;
+	height: 60px;
+	margin: 30px auto;
+	padding-left: 2rem;
+	font-family: 'Myriad Pro';
+color: #ffffff;
+font-size: 2.4rem;
+font-weight: 400;
+line-height: 0.917;
+text-align: justify;
+background-color: #1a1919;
+}
+.tab-content p {
+	margin-left: 6.5rem;
+	margin-bottom: 5rem;
+	color: #c51f03;
+	font-size: 1.5rem;
+}
+.check {
+	margin-left: 6.5rem;
+
+}
+.check label,
+.check input {	
+	display: inline-block;	
+	color: #6f6d6d;
+	font-size: 1.5rem;		
+	vertical-align: top;
+}
+button {
+	position: absolute;
+	bottom: 20px;	
+	right: -40px;
+	display: block;
+	background: -webkit-radial-gradient(circle farthest-side at 50%, #cf2303 0%, #7f0501 100%);
+background: -moz-radial-gradient(circle farthest-side at 50%, #cf2303 0%, #7f0501 100%);
+background: -o-radial-gradient(circle farthest-side at 50%, #cf2303 0%, #7f0501 100%);
+background: -ms-radial-gradient(circle farthest-side at 50%, #cf2303 0%, #7f0501 100%);
+background: radial-gradient(circle farthest-side at 50%, #cf2303 0%, #7f0501 100%);
+width: 128px;
+height: 41px;
+font-size: 2.4rem;
+color: #fff;
+border: none;
+}
+
+
+
+
+

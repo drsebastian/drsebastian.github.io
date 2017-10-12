@@ -39,31 +39,16 @@
 [Урок 13](https://drsebastian.github.io/lesson_13/) - Pixel Perfect
 
 
-[Практика 1](https://drsebastian.github.io/practice_1/) - Верстка шапки
-
-
-[Урок 14](https://drsebastian.github.io/lesson_14/) - Подключение шрифтов
-
-
-[Практика 2](https://drsebastian.github.io/practice_2/) - Подключение шрифтов. Верстка первого экрана. 
+[Урок 14](https://drsebastian.github.io/lesson_14/) - Подключение шрифтов 
 
 
 [Урок 15](https://drsebastian.github.io/lesson_15/) - Псевдоклассы. Псевдоэлементы.
 
 
-[Практика 3](https://drsebastian.github.io/practice_3/) - Эффекты при наведении и адаптив первого экрана 
-
-
 [Урок 16](https://drsebastian.github.io/lesson_16/) - Слайдер на сайте. 
 
 
-[Практика 4](https://drsebastian.github.io/practice_4/) - Верстка блока с преимуществами. Слайдер.
-
-
 [Урок 17](https://drsebastian.github.io/lesson_17/) - Всплывающие окна. 
-
-
-[Практика 5](https://drsebastian.github.io/practice_5/) - Верстка всплывающих окон на сайте.
 
 
 [Урок 18.1](https://drsebastian.github.io/lesson_18_1/) - Табы
@@ -72,10 +57,32 @@
 [Урок 18.2](https://drsebastian.github.io/lesson_18_1/) - Аккордеоны 
 
 
+[Урок 19](https://drsebastian.github.io/lesson_19/) - Анимация на CSS3. 
+
+
+Практика
+------
+
+
+[Практика 1](https://drsebastian.github.io/practice_1/) - Верстка шапки
+
+
+[Практика 2](https://drsebastian.github.io/practice_2/) - Подключение шрифтов. Верстка первого экрана. 
+
+
+[Практика 3](https://drsebastian.github.io/practice_3/) - Эффекты при наведении и адаптив первого экрана 
+
+
+[Практика 4](https://drsebastian.github.io/practice_4/) - Верстка блока с преимуществами. Слайдер.
+
+
+[Практика 5](https://drsebastian.github.io/practice_5/) - Верстка всплывающих окон на сайте.
+
+
 [Практика 6](https://drsebastian.github.io/practice_6/) - Верстка блока с ценами 
 
 
-[Урок 19](https://drsebastian.github.io/lesson_19/) - Анимация на CSS3. 
+[Практика 7](https://drsebastian.github.io/practice_7/) - Верстка блока с отзывами
 
 
 

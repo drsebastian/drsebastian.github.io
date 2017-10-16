@@ -425,3 +425,11 @@ section {
     font-size: 2rem;
   }
 }
+@media (max-width: 800px) {
+  .feedback-prev-btn {
+    left: -2rem;
+  }
+  .feedback-next-btn {
+    right: -2rem;
+  }
+}

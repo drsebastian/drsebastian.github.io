@@ -63,6 +63,9 @@
 [Урок 20](https://drsebastian.github.io/lesson_20/) - Видео-фон на сайте. 
 
 
+[Урок 21](https://drsebastian.github.io/lesson_21/) - Parallax эффект для сайта.  
+
+
 Практика
 ------
 

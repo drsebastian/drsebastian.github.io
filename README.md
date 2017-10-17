@@ -88,6 +88,9 @@
 [Практика 7](https://drsebastian.github.io/practice_7/) - Верстка блока с отзывами
 
 
+[Практика 8](https://drsebastian.github.io/practice_8/) - Доверстали блок с отзывами
+
+
 
 
 

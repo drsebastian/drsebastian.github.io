@@ -66,6 +66,9 @@
 [Урок 21](https://drsebastian.github.io/lesson_21/) - Parallax эффект для сайта.  
 
 
+[Урок 22](https://drsebastian.github.io/lesson_22/) - Гео-карты для сайта.   
+
+
 Практика
 ------
 

@@ -1,0 +1,76 @@
+@font-face {
+			font-family: "OpenSans";
+			src: url("../fonts/OpenSansRegular/OpenSansRegular.eot");
+			src: url("../fonts/OpenSansRegular/OpenSansRegular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/OpenSansRegular/OpenSansRegular.woff") format("woff"),
+			url("../fonts/OpenSansRegular/OpenSansRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	* {
+		box-sizing: border-box;
+		font-family: 'OpenSans', sans-serif;
+		font-size: 10px;		
+	}
+
+	body {
+		padding-top: 10rem;
+	}
+
+	.contact {
+		position: absolute;
+		top: 0;
+		z-index: 99;
+		padding: 7rem 0;
+		width: 380px;
+		height: 430px;
+		background-color:	#c60b0b;
+		color: #fff;
+		text-align: center;
+	}
+
+	.contact h1 {		
+		font-size: 1.8rem;		
+		font-weight: 400;
+	}
+
+	.contact p {
+		font-size: 1.2rem;
+		margin-top: 4rem;
+	}
+
+		.contact a {
+			display: inline-block;
+		font-size: 1.2rem;
+		margin-top: 4rem;
+		text-decoration: underline;
+		color: #fff;
+	}
+
+	.footer {
+		padding: 2rem;
+	}
+
+	.keywords p{
+		font-size: 1.6rem;
+	}
+
+	.certificate p{
+		font-size: 1.4rem;
+		text-align: center;
+		color: #666666;
+	}
+
+.adress {
+	text-align: right;
+}
+
+	.phone{
+		font-size: 2.2rem;
+	}
+
+	.adress p{
+		font-size: 1.4rem;
+	}
+

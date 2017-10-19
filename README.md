@@ -106,6 +106,9 @@
 [Практика 11](https://drsebastian.github.io/practice_11/) - Верстаем блок "Материалы"   
 
 
+[Практика 12](https://drsebastian.github.io/practice_12/) - Верстаем блок "Экскурсия" и "Доп. услуги"   
+
+
 
 
 

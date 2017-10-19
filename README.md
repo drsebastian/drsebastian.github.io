@@ -100,6 +100,9 @@
 [Практика 9](https://drsebastian.github.io/practice_9/) - Верстаем схему работы и все включено 
 
 
+[Практика 10](https://drsebastian.github.io/practice_10/) - Верстаем блок "Развеиваем сомнения"  
+
+
 
 
 
